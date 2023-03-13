@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DanielMoreWang
-- 👀 I’m interested in deep_learning and data_mining.
-- 🌱 I’m currently learning apply deep_learning on environment.
+- 🌱 I’m currently learning apply deep_learning on self-driving.
 - 📫 Contact me danielwang8163@gmail.com
 
 <!---
