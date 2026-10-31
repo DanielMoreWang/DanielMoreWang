@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @DanielMoreWang
-- 🌱 I’m currently learning apply deep_learning on self-driving.
 - 📫 Contact me danielwang8163@gmail.com
 
 <!---
